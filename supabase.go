@@ -11,7 +11,7 @@ import (
 )
 
 const (
-	AuthEndpoint    = "auth/v1"
+	AuthEndpoint    = "auth/v2"
 	AdminEndpoint   = "auth/v1/admin"
 	RestEndpoint    = "rest/v1"
 	StorageEndpoint = "storage/v1"
